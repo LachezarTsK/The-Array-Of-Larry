@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LarryArrayForTest {
+public class Solution {
 	public static String getResults(LinkedList<Integer> allElements) {
 		String result;
 
